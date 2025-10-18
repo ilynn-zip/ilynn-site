@@ -19,7 +19,7 @@ function detectLang() {
 }
 
 function loadContent(lang) {
-  fetch("/data/content.json")
+  fetch("/ilynn-site/data/content.json")
     .then((res) => res.json())
     .then((data) => {
       const d = data[lang];
@@ -152,7 +152,7 @@ function loadContent(lang) {
 }
 
 function loadProjects(lang, d) {
-  fetch("/data/project.json")
+  fetch("/ilynn-site/data/project.json")
     .then(res => res.json())
     .then(projectData => {
       const projects = projectData.project[lang] || [];
