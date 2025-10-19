@@ -13,7 +13,7 @@
                 "projectLink": [
                     {
                         "nid": "play",
-                        "link": "https://ilynn.itch.io/blue-chicken-minijam97"
+                        "link": "https://ilynn-zip.github.io/blue-chicken/"
                     },
                     {
                         "nid": "source",
@@ -29,7 +29,6 @@
                         "nid": "itch",
                         "link": "https://ilynn.itch.io/blue-chicken-minijam97",
                         "disabled": true,
-                        "hidden": true
                     }
                 ]
             },
@@ -41,7 +40,7 @@
                 "projectLink": [
                     {
                         "nid": "play",
-                        "link": "https://ilynn.itch.io/copy-tv-minijam-111"
+                        "link": "https://ilynn-zip.github.io/copygamedeploy"
                     },
                     {
                         "nid": "source",
@@ -57,7 +56,6 @@
                         "nid": "itch",
                         "link": "https://ilynn.itch.io/copy-tv-minijam-111",
                         "disabled": true,
-                        "hidden": true
                     }
                 ]
             },
@@ -155,7 +153,7 @@
                 "projectLink": [
                     {
                         "nid": "play",
-                        "link": "https://ilynn.itch.io/blue-chicken-minijam97"
+                        "link": "https://ilynn-zip.github.io/blue-chicken/"
                     },
                     {
                         "nid": "source",
@@ -171,7 +169,6 @@
                         "nid": "itch",
                         "link": "https://ilynn.itch.io/blue-chicken-minijam97",
                         "disabled": true,
-                        "hidden": true
                     }
                 ]
             },
@@ -183,7 +180,7 @@
                 "projectLink": [
                     {
                         "nid": "play",
-                        "link": "https://ilynn.itch.io/copy-tv-minijam-111"
+                        "link": "https://ilynn-zip.github.io/copygamedeploy"
                     },
                     {
                         "nid": "source",
@@ -199,7 +196,6 @@
                         "nid": "itch",
                         "link": "https://ilynn.itch.io/copy-tv-minijam-111",
                         "disabled": true,
-                        "hidden": true
                     }
                 ]
             },
