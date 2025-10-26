@@ -5,17 +5,17 @@
       {
         "id": "about",
         "title": "Это я, да",
-        "icon": "/ilynn-site/img/icon/about.svg"
+        "icon": "/img/icon/about.svg"
       },
       {
         "id": "projects",
         "title": "Проджектс",
-        "icon": "/ilynn-site/img/icon/joystick.svg"
+        "icon": "/img/icon/joystick.svg"
       },
       {
         "id": "coming",
         "title": "Скоро, или нет",
-        "icon": "/ilynn-site/img/icon/question.svg",
+        "icon": "/img/icon/question.svg",
         "disabled": true
       }
     ],
@@ -23,23 +23,23 @@
       "title": "Привет! Я Виктор Ilynn",
       "text": "Это моя игровая лаборатория. Здесь я создаю миры, изобретаю механику и экспериментирую с визуалом. Просто потому что могу и люблю это делать.",
       "find": "Найдешь меня здесь ↷",
-      "photo": "/ilynn-site/img/ilynn.png",
+      "photo": "/img/ilynn.png",
       "socials": [
         {
           "name": "GitHub",
-          "icon": "/ilynn-site/img/icon/github.svg",
+          "icon": "/img/icon/github.svg",
           "link": "https://github.com/ilynn-zip"
         },
         {
           "name": "Itch.io",
-          "icon": "/ilynn-site/img/icon/itch.svg",
+          "icon": "/img/icon/itch.svg",
           "link": "https://ilynn.itch.io/",
           "disabled": true,
           "tooltip": "ркн запрещает лол"
         },
         {
           "name": "Telegram",
-          "icon": "/ilynn-site/img/icon/telegram.svg",
+          "icon": "/img/icon/telegram.svg",
           "link": "https://t.me/nepridumivay"
         }
       ],
@@ -49,14 +49,14 @@
           "id": "g4",
           "title": "Color's Formula",
           "desc": "Цветовая головолмка. Попробуй подобрать исходный цвет, смешивая разные оттенки.",
-          "image": "/ilynn-site/img/projects/games/colors-formula.png",
+          "image": "/img/projects/games/colors-formula.png",
           "link": "https://ilynn.itch.io/colors-formula"
         },
         {
           "id": "g5",
           "title": "Pill pigments",
           "desc": "Ваша задача: раскрасить хаос в один цвет, усмирив внутренних демонов.",
-          "image": "/ilynn-site/img/projects/games/pill-pigments.png",
+          "image": "/img/projects/games/pill-pigments.png",
           "link": "https://ilynn.itch.io/pill-pigments"
         }
       ]
@@ -66,25 +66,25 @@
       {
         "nid": "play",
         "name": "Играть",
-        "icon": "/ilynn-site/img/icon/play2.svg",
+        "icon": "/img/icon/play2.svg",
         "link": ""
       },
       {
         "nid": "source",
         "name": "Исходники",
-        "icon": "/ilynn-site/img/icon/github.svg",
+        "icon": "/img/icon/github.svg",
         "link": ""
       },
       {
         "nid": "download",
         "name": "Скачать",
-        "icon": "/ilynn-site/img/icon/download.svg",
+        "icon": "/img/icon/download.svg",
         "link": ""
       },
       {
         "nid": "itch",
         "name": "Itch",
-        "icon": "/ilynn-site/img/icon/itch.svg",
+        "icon": "/img/icon/itch.svg",
         "link": ""
       }
     ]
@@ -100,12 +100,12 @@
       {
         "id": "projects",
         "title": "Mah projects",
-        "icon": "/ilynn-site/img/icon/joystick.svg"
+        "icon": "/img/icon/joystick.svg"
       },
       {
         "id": "coming",
         "title": "Soon, or not",
-        "icon": "/ilynn-site/img/icon/question.svg",
+        "icon": "/img/icon/question.svg",
         "disabled": true
       }
     ],
@@ -138,14 +138,14 @@
           "id": "g4",
           "title": "Color's Formula",
           "desc": "Color puzzle. Try to match the original color by mixing different shades.",
-          "image": "/ilynn-site/img/projects/games/colors-formula.png",
+          "image": "/img/projects/games/colors-formula.png",
           "link": "https://ilynn.itch.io/colors-formula"
         },
         {
           "id": "g5",
           "title": "Pill pigments",
           "desc": "Your task: to paint the chaos in a single color, pacifying the inner demons.",
-          "image": "/ilynn-site/img/projects/games/pill-pigments.png",
+          "image": "/img/projects/games/pill-pigments.png",
           "link": "https://ilynn.itch.io/pill-pigments"
         }
       ]
@@ -155,25 +155,25 @@
       {
         "nid": "play",
         "name": "Play",
-        "icon": "/ilynn-site/img/icon/play2.svg",
+        "icon": "/img/icon/play2.svg",
         "link": ""
       },
       {
         "nid": "source",
         "name": "Sources",
-        "icon": "/ilynn-site/img/icon/github.svg",
+        "icon": "/img/icon/github.svg",
         "link": ""
       },
       {
         "nid": "download",
         "name": "Download",
-        "icon": "/ilynn-site/img/icon/download.svg",
+        "icon": "/img/icon/download.svg",
         "link": ""
       },
       {
         "nid": "itch",
         "name": "on Itch",
-        "icon": "/ilynn-site/img/icon/itch.svg",
+        "icon": "/img/icon/itch.svg",
         "link": ""
       }
     ]
