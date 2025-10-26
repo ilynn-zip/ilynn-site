@@ -1,15 +1,15 @@
 {
-    "playico": "/ilynn-site/img/icon/play2.svg",
-    "downloadico": "/ilynn-site/img/icon/download.svg",
-    "gitico": "/ilynn-site/img/icon/github.svg",
-    "itchico": "/ilynn-site/img/icon/itch.svg",
+    "playico": "/img/icon/play2.svg",
+    "downloadico": "/img/icon/download.svg",
+    "gitico": "/img/icon/github.svg",
+    "itchico": "/img/icon/itch.svg",
     "project": {
         "ru": [
             {
                 "id": "g1",
                 "title": "Blue chicken (minijam 97)",
                 "desc": "Простенький платформер, с механикой рокетджампа, был сделан для миниджема.",
-                "image": "/ilynn-site/img/projects/games/blue-chicken.png",
+                "image": "/img/projects/games/blue-chicken.png",
                 "projectLink": [
                     {
                         "nid": "play",
@@ -36,7 +36,7 @@
                 "id": "g2",
                 "title": "Copy TV (minijam 111)",
                 "desc": "Платформер головоломка про ТВ-челвечка.",
-                "image": "/ilynn-site/img/projects/games/copy-tv.png",
+                "image": "/img/projects/games/copy-tv.png",
                 "projectLink": [
                     {
                         "nid": "play",
@@ -63,7 +63,7 @@
                 "id": "g3",
                 "title": "Runeshot (minijam 149)",
                 "desc": "Руны, нанесённые на пули, — ваше оружие. Станьте настоящим мастером runeshot!",
-                "image": "/ilynn-site/img/projects/games/runeshot.png",
+                "image": "/img/projects/games/runeshot.png",
                 "projectLink": [
                     {
                         "nid": "play",
@@ -91,7 +91,7 @@
                 "id": "g4",
                 "title": "Color's Formula",
                 "desc": "Цветовая головолмка. Попробуй подобрать исходный цвет, смешивая разные оттенки.",
-                "image": "/ilynn-site/img/projects/games/colors-formula.png",
+                "image": "/img/projects/games/colors-formula.png",
                 "projectLink": [
                     {
                         "nid": "play",
@@ -119,7 +119,7 @@
                 "id": "g5",
                 "title": "Pill pigments",
                 "desc": "Ваша задача: раскрасить хаос в один цвет, усмирив внутренних демонов.",
-                "image": "/ilynn-site/img/projects/games/pill-pigments.png",
+                "image": "/img/projects/games/pill-pigments.png",
                 "projectLink": [
                     {
                         "nid": "play",
@@ -149,7 +149,7 @@
                 "id": "g1",
                 "title": "Blue chicken (minijam 97)",
                 "desc": "A simple platformer with rocket jump mechanics was made for the MiniJam.",
-                "image": "/ilynn-site/img/projects/games/blue-chicken.png",
+                "image": "/img/projects/games/blue-chicken.png",
                 "projectLink": [
                     {
                         "nid": "play",
@@ -175,7 +175,7 @@
                 "id": "g2",
                 "title": "Copy TV (minijam 111)",
                 "desc": "A platformer puzzle game about a TV-dude.",
-                "image": "/ilynn-site/img/projects/games/copy-tv.png",
+                "image": "/img/projects/games/copy-tv.png",
                 "projectLink": [
                     {
                         "nid": "play",
@@ -201,7 +201,7 @@
                 "id": "g3",
                 "title": "Runeshot (minijam 149)",
                 "desc": "The runes marked on the bullets are your weapon. Become a true Runeshot master!",
-                "image": "/ilynn-site/img/projects/games/runeshot.png",
+                "image": "/img/projects/games/runeshot.png",
                 "projectLink": [
                     {
                         "nid": "play",
@@ -229,7 +229,7 @@
                 "id": "g4",
                 "title": "Color's Formula",
                 "desc": "Color puzzle. Try to match the original color by mixing different shades.",
-                "image": "/ilynn-site/img/projects/games/colors-formula.png",
+                "image": "/img/projects/games/colors-formula.png",
                 "projectLink": [
                     {
                         "nid": "play",
@@ -257,7 +257,7 @@
                 "id": "g5",
                 "title": "Pill pigments",
                 "desc": "Your task: to paint the chaos in a single color, pacifying the inner demons.",
-                "image": "/ilynn-site/img/projects/games/pill-pigments.png",
+                "image": "/img/projects/games/pill-pigments.png",
                 "projectLink": [
                     {
                         "nid": "play",
