@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 function switchLang(lang) {
-    fetch('/ilynn-site/data/content.json')
+    fetch('/data/content.json')
         .then(res => res.json())
         .then(data => {
             const d = data[lang];
@@ -85,7 +85,7 @@ function switchLang(lang) {
 }
 
 function updateProjects(lang) {
-    fetch('/ilynn-site/data/project.json')
+    fetch('/data/project.json')
         .then(res => res.json())
         .then(data => {
             const pdata = data.project[lang];
@@ -111,7 +111,7 @@ function updateThoughtBubble(langData) {
 }
 
 function switchBubble(lang) {
-    fetch(`/ilynn-site/data/bubble.json`)
+    fetch(`/data/bubble.json`)
         .then(res => res.json())
         .then(data => {
             const d = data[lang];
